@@ -1,0 +1,6 @@
+#!/usr/bin/python
+
+print("Testing Status, Add, Commit, Push")
+
+
+
