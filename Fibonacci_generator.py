@@ -32,14 +32,13 @@ i = 1
 fiblist = []
 if n <= 0:
 	print("Incorrect Input")
+if n >= 35:
+	print("This is too intense for this weak ass computer")
 else:
-
 	while i <= n:
 		fiblist.append(Fibonacci(i+1))
 		i = i + 1
-	print (fiblist)
-	
-	
+	print (fiblist)	
  
 	
 
